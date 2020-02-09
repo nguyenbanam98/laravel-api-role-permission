@@ -1,0 +1,16 @@
+{
+    "name": "wesimplycode/laravel-api-role-permission",
+    "description": "Simple role-permission package for api's build with the Laravel Framework.",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sunil Kisoensingh",
+            "email": "sunil.kisoensingh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
