@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "WeSimplyCode\\LaravelApiRolePermission\\": "src/"
+            "WeSimplyCode\\ApiRolePermission\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "WeSimplyCode\\LaravelApiRolePermission\\LaravelApiRolePermissionServiceProvider"
+                "WeSimplyCode\\ApiRolePermission\\ApiRolePermissionServiceProvider"
             ]
         }
     },
