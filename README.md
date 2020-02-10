@@ -229,7 +229,7 @@ class RoleAndPermissionSeeder extends Seeder
 
 ## Author
 
-- **Sunil Kisoensingh**
+- **WeSimplycode - Sunil Kisoensingh**
 
 ## License
 
