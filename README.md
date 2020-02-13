@@ -195,7 +195,7 @@ public function __construct()
 
 ```php
 // After using one of the middlewares you can retrieve a user simply by using the auth() helper
-auth()->user()
+auth('api')->user()
 ```
 
 #### Database seeder

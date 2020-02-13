@@ -27,7 +27,6 @@ class HasAnyPermissionByRoles
             if (!$user->hasAnyPermissionByRoles($permissions)) {
                 return response(['message' => 'Unauthorized!'], 401);
             } else {
-                Auth::login($user);
                 return $next($request);
             }
         } else {
